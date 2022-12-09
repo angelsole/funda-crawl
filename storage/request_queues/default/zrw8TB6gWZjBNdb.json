@@ -1,0 +1,9 @@
+{
+	"id": "zrw8TB6gWZjBNdb",
+	"json": "{\"id\":\"zrw8TB6gWZjBNdb\",\"url\":\"https://www.funda.nl/en/koop/amsterdam/p1/\",\"loadedUrl\":\"https://www.funda.nl/en/koop/amsterdam/p1/\",\"uniqueKey\":\"https://www.funda.nl/en/koop/amsterdam/p1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-02T16:08:36.945Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.funda.nl/en/koop/amsterdam/p1",
+	"url": "https://www.funda.nl/en/koop/amsterdam/p1/"
+}

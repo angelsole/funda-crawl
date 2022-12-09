@@ -1,0 +1,9 @@
+{
+	"id": "tWRNZI7tFQr0LMI",
+	"json": "{\"id\":\"tWRNZI7tFQr0LMI\",\"url\":\"https://www.funda.nl/en/koop/amsterdam/huis-88410969-singel-180/?navigateSource=resultlist\",\"loadedUrl\":\"https://www.funda.nl/en/koop/amsterdam/huis-88410969-singel-180/\",\"uniqueKey\":\"https://www.funda.nl/en/koop/amsterdam/huis-88410969-singel-180?navigateSource=resultlist\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-02T16:08:39.592Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.funda.nl/en/koop/amsterdam/huis-88410969-singel-180?navigateSource=resultlist",
+	"url": "https://www.funda.nl/en/koop/amsterdam/huis-88410969-singel-180/?navigateSource=resultlist"
+}
