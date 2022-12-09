@@ -17,7 +17,7 @@ await Actor.main(async () => {
         await enqueueLinks({
           strategy: 'same-domain',
           selector: 'a',
-          globs: ['http?(s)://www.funda.nl/en/koop/*/huis-*/[?]**'],
+          globs: ['http?(s)://www.funda.nl/en/koop/**/huis-*/[?]**'],
         })
         return
       }
@@ -112,7 +112,7 @@ await Actor.main(async () => {
       await enqueueLinks({
         strategy: 'same-domain',
         selector: 'a',
-        globs: ['http?(s)://www.funda.nl/en/koop/*/huis-*/[?]**'],
+        globs: ['http?(s)://www.funda.nl/en/koop/**/huis-*/[?]**'],
       })
     },
     maxRequestsPerCrawl: process.env.MAX_REQUESTS_PER_CRAWL ? parseInt(process.env.MAX_REQUESTS_PER_CRAWL, 10) : 10,
